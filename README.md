@@ -1,8 +1,11 @@
 # Tensorflowmodels
 
+Snus & Duck model
+
 ![](ModelGIF.gif)
 
 Want to detect Snus(swedish tobacco) or a red rubberduck in your imageprocessingprojects using tensorflow?
+
 Trained with GTX1050Ti laptop.
 
 
